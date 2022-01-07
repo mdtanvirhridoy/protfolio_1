@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.fst{
+    display: flex;
+    background-color: black;
+    margin-bottom: 3rem;
+}
+.ss img{
+   height: 24rem;
+   width: 22rem;
+   border-radius: 50%;
+   border: 3px solid rgb(255, 255, 255);
+   margin-top: 25px;
+}
+.ss{
+    padding: 20px;
+    margin-right: 10rem;
+    margin-top: 20px;
+}
+.marjen{
+    color: rgb(255, 255, 255);
+    padding: 40px;
+    margin-right: 18rem;
+    margin-left: 40px;
+    
+}
+.marjen button{
+    background-color: black;
+    color: white;
+    margin-top: 15px;
+    margin-left: 5px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20%;
+    border: 2px solid rgb(255, 255, 255);
+}
+.marjen button:hover{
+    background-color: rgba(255, 153, 0, 0.932)
+}
+.icon-page{
+    font-size: 30px;
+    margin-top: 15px;
+}
+.icon-page i:hover{
+    background-color: cornflowerblue;
+}
+.marjen h1{
+    font-weight: 900;
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+.tow-page{
+    margin-top: 1rem;
+    display: flex;
+    
+    color: white;
+}
+.div-one{
+    padding: 30px;
+    background-color: black;
+    margin-left: 2rem;
+    margin-right: 1rem;
+    border: 3px solid darkgray;
+}
+.div-tow{
+    padding: 30px;
+    background-color: black;
+    margin-left: 1rem;
+    margin-right: 2rem;
+    border: 3px solid darkgray;
+}
+.hh{
+    margin-left: 2rem;
+    margin-right: 2rem;
+background-color:black;
+color: white;
+border: 3px solid darkgray;
+}
+p{
+    font-family: 'Luxurious Roman', cursive;
+}
